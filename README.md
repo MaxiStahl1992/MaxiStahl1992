@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany :de:.
-- :telescope: I’m working as a Junior Software Developer for Allianz Technology. 70% frontend - 20% backend and database - 10% deployment, monitoring and operations
+- :telescope: I’m working as a Software Developer for BayWa AG. I have worked as a fullstack developer on several business applications, and I developed generative AI solutions for several business cases. 
 
 - :seedling: Learning something new everyday.
 
