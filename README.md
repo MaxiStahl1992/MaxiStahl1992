@@ -1,6 +1,6 @@
 # Hi, I'm Maximilian
 
-AI engineer near Munich. At BayWa AG, I build LLM agents, document understanding and the group-wide AI platform. My research focus is computer vision that stays reliable when data and environment change – now applied to robotic manipulation.
+AI engineer near Munich. At BayWa AG, I build LLM agents, document understanding and the group-wide AI platform. My research focus is computer vision that stays reliable when data and environment change, which I now try to apply to robotic manipulation.
 
 Most of my professional and research work lives in company and university repositories; this profile shows only personal projects.
 
