@@ -1,4 +1,4 @@
-# Hi, I'm Maximilian
+# Hi, I'm Max
 
 AI engineer near Munich. At BayWa AG, I build LLM agents, document understanding and the group-wide AI platform. My research focus is computer vision that stays reliable when data and environment change, which I now try to apply to robotic manipulation.
 
